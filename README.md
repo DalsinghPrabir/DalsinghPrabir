@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I am Dalsingh Prabir Ray 👋
 
-<!--
-**DalsinghPrabir/DalsinghPrabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Dot Net  Developer • AI Application Developer • Open Source Builder
 
-Here are some ideas to get you started:
+Building scalable web applications with C# , ASP .NET , TypeScript, Angular and LLMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am Passionate about AI-powered products, enterprise software, open source.
+
+I'm a Lead  Engineer  who enjoys building scalable Full Stack applications, AI-powered products, and developer-focused tools.
+
+I work across the stack — from frontend architecture and backend APIs to databases, authentication, performance optimization, testing, and deployment — with a strong focus on building software that is reliable, maintainable, and useful.
+
+Beyond my day job, I actively build open-source projects, mentor developers, and explore how LLMs and modern AI technologies can solve real-world developer and business problems.
+
+I'm currently combining my Full Stack engineering experience with AI application development to build practical products, experiment with new ideas, and share what I learn with the developer community.
+
+My goal is simple:
+
+Build things that solve real problems. Learn in public. Share what you learn. 🚀
+
