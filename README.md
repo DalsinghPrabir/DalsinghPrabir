@@ -1,6 +1,5 @@
 ## Hi I am Dalsingh Prabir Ray 👋
-
-## 🚀  I'm a Lead  Engineer  who enjoys building scalable Full Stack applications by designing clean architectures, building performant backend systems, and creating intuitive user experiences .
+🚀  I'm a Lead  Engineer  who enjoys building scalable Full Stack applications by designing clean architectures, building performant backend systems, and creating intuitive user experiences .
 
 I work across the stack — from frontend architecture and backend APIs to databases, authentication, performance optimization, testing, and deployment — with a strong focus on building software that is reliable, maintainable, and useful.
 
@@ -8,6 +7,5 @@ Beyond my day job, I actively build open-source projects, mentor developers, and
 I'm currently combining my Full Stack engineering experience with AI application development to build practical products, experiment with new ideas, and share what I learn with the developer community.
 
 ## Tech Stack 
-⚡ JavaScript | TypeScript | Angular
-🔐 C# | ASP .NET Core | REST APIs | SQL | Python 
+⚡ JavaScript | TypeScript | Angular | C# | ASP .NET Core | REST APIs | SQL | Python 
 
