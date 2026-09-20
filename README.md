@@ -8,5 +8,5 @@ Currently transitioning into AI engineering with a strong focus on Python, FastA
 I am currently combining my Full Stack engineering experience with AI application development to build practical products, experiment with new ideas, and share what I learn with the developer community.
 
 ## Tech Stack 
-⚡  C# | ASP .NET Core | ASP .NET mvc  | AZURE Cloud |REST APIs | JavaScript | TypeScript | Angular  | SQL | Python 
+⚡  C# | ASP .NET Core | ASP .NET mvc  | Azure Cloud |REST APIs | JavaScript | TypeScript | Angular  | SQL | Python 
 
